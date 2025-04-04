@@ -1,0 +1,12 @@
+[package]
+name = "replace_once"
+version = "0.1.0"
+edition = "2024"
+authors = ["me@partiallytyped.dev"]
+description = "A synchronization primitive that allows replacing a value at most once."
+license = "MIT"
+repository = "https://github.com/yourusername/replace_once"
+keywords = ["once", "sync", "replace", "atomic"]
+categories = ["concurrency", "data-structures"]
+
+[dependencies]
